@@ -3,15 +3,16 @@ body{
 }
 
 #container{
+    color: deepskyblue;
     display: flex;
     justify-content: center;
+    border: solid 1px black;
+    width: 70%;
+    margin: auto;
 }
 
 .post{
-    border: solid 1px black;
     font-family: 'Arial';
-    color: deepskyblue;
-    width: 70%;
     padding: 2em;
     text-align: left;
 
