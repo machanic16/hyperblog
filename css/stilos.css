@@ -1,5 +1,18 @@
 body{
-    color: deeppink;
     text-align: center;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+.post{
+    border: solid 1px black;
     font-family: 'Arial';
+    color: deepskyblue;
+    width: 70%;
+    padding: 2em;
+    text-align: left;
+
 }
